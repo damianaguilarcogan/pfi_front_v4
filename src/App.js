@@ -2,7 +2,6 @@ import React, {Component} from 'react';
 import './App.css';
 import Navbar from './components/navbar';
 import LoginBox from './components/loginBox';
-import 'bootstrap/dist/css/bootstrap.min.css'
 
 class App extends Component {
     render() {
